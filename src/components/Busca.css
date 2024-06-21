@@ -1,0 +1,40 @@
+.busca{
+    /* border: 2px solid red; */
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center; 
+    padding-top: 100px;
+}
+
+.busca h2{
+    font-size: 3rem;
+    margin-top: 5%;
+}
+
+.busca input{
+    padding: 10px 35px;
+    width: 350px;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+    background-color: rgb(243, 236, 236);
+    font-size: 18px;
+    margin-bottom: 80px;
+}
+
+.busca .container_lupa{
+    display: flex;
+    position: relative;
+   
+}
+
+.busca .lupa{
+    width: 25px;
+    height: 25px;
+    margin-top: 10px;
+    position: absolute;
+    left: 5px;
+}
+

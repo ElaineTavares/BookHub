@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "titulo": "A guerra dos tronos",
+        "capa": "imagens/a_guerra_dos_tronos.jpg",
+        "genero": "Suspense",
+        "autor": "Geroge R.R Martin",
+        "descricao": "Lorem ipsum dolor sit amet cons qu orem ipsum dolor sit amet cons quis iure."
+    },
+    {
+        "id": 2,
+        "titulo": "A verdade sobre o caso Harry Quebert",
+        "capa": "imagens/a_verdade_sobre_o_caso.jpg",
+        "genero": "Drama",
+        "autor": "Joel Dicker",
+        "descricao": "Lorem ipsum dolor sit amet cons qu orem ipsum dolor sit amet cons quis iure."
+    },
+    {
+        "id": 3,
+        "titulo": "As crônicas de Nárnia",
+        "capa": "imagens/as_cronicas_de_narnia.jpg",
+        "genero": "Aventura",
+        "autor": "C.S Lewis",
+        "descricao": "Lorem ipsum dolor sit amet cons qu orem ipsum dolor sit amet cons quis iure."
+    },
+    {
+        "id": 4,
+        "titulo": "Assassinato no Expresso do Oriente",
+        "capa": "imagens/assassinato_no_expresso_oriente.jpg",
+        "genero": "Romance",
+        "autor": "Agatha Christie",
+        "descricao": "Lorem ipsum dolor sit amet cons qu orem ipsum dolor sit amet cons quis iure."
+    },
+    {
+        "id": 5,
+        "titulo": "Blade Runner",
+        "capa": "imagens/blade_runner.jpg",
+        "genero": "Suspense",
+        "autor": "Philip K Dicker",
+        "descricao": "Lorem ipsum dolor sit amet cons qu orem ipsum dolor sit amet cons quis iure."
+    },
+    {
+        "id": 6,
+        "titulo": "Garota Exemplar",
+        "capa": "imagens/garota_exemplar.jpg",
+        "genero": "Terror",
+        "autor": "Gillian Flynn",
+        "descricao": "Lorem ipsum dolor sit amet cons qu orem ipsum dolor sit amet cons quis iure."
+    },
+    {
+        "id": 7,
+        "titulo": "Harry Potter",
+        "capa": "imagens/harry_potter.jpg",
+        "genero": "Ficção",
+        "autor": "J. K. Rowling",
+        "descricao": "Lorem ipsum dolor sit amet cons qu orem ipsum dolor sit amet cons quis iure."
+    },
+    {
+        "id": 8,
+        "titulo": "Jogador número um",
+        "capa": "imagens/jogador_num_1.jpg",
+        "genero": "Comédia",
+        "autor": "Ernest Cline",
+        "descricao": "Lorem ipsum dolor sit amet cons qu orem ipsum dolor sit amet cons quis iure."
+    },
+    {
+        "id": 9,
+        "titulo": "O morro dos ventos uivantes",
+        "capa": "imagens/morro_dos_ventos_uivantes.jpg",
+        "genero": "Suspense",
+        "autor": "Emily Bronte",
+        "descricao": "Lorem ipsum dolor sit amet cons qu orem ipsum dolor sit amet cons quis iure."
+    },
+    {
+        "id": 10,
+        "titulo": "O grande Gatsdy",
+        "capa": "imagens/o_grande_gatsby.jpg",
+        "genero": "Terror",
+        "autor": "F. Scott Fitzgerald",
+        "descricao": "Lorem ipsum dolor sit amet cons qu orem ipsum dolor sit amet cons quis iure."
+    },
+    {
+        "id": 11,
+        "titulo": "Orgulho e preconceito",
+        "capa": "imagens/orgulho_e_preconceito.jpg",
+        "genero": "Ficção",
+        "autor": "Joane Aileen",
+        "descricao": "Lorem ipsum dolor sit amet cons qu orem ipsum dolor sit amet cons quis iure."
+    },
+    {
+        "id": 12,
+        "titulo": "2021 uma odisséia no espaço",
+        "capa": "imagens/uma_odisseia_no_espaco.png",
+        "genero": "Comédia",
+        "autor": "Arthur C. Clarke",
+        "descricao": "Lorem ipsum dolor sit amet cons qu orem ipsum dolor sit amet cons quis iure."
+    }
+]

@@ -1,0 +1,11 @@
+
+
+.container_card{
+    /* border: 2px solid blue; */
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    flex-flow: row wrap;
+    padding-inline: 5%;
+    
+}

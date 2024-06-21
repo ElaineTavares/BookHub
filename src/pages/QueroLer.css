@@ -1,0 +1,15 @@
+.quero_ler .h2{
+    text-align: center;
+    margin-top: 5%;
+    font-size: 3rem;
+}
+
+.quero_ler .container{
+    /* border: 2px solid red; */
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    flex-flow: row wrap;
+    padding-inline: 5%;
+    padding-block: 5%;
+}
